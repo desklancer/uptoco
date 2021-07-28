@@ -1,45 +1,10 @@
 <?php
 //User-Agent
 
-$uag = "xxx";
-
+$uag = "Mozilla/5.0 (Linux; Android 11; SM-M315F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.11 Mobile Safari/537.36";
 //Doge
-$dogecookie = "xxx";
-//Bcn
-$bcncookie = "xxx";
-//dgb
-$dgbcookie = "xxx";
+$dogecookie = "Ref=EC-UserId-471183;DOGEToken=kd9nQCqgQKAFRuOpCEvZy59Dz36kL5uU;HstCfa4361570=1627050432384;HstCmu4361570=1627050432384;__dtsu=4C3016270504359883B4613B877183F8;_cc_id=95233da1cc2326d0f272023f1776217e;a=HJClfTFvTHt0CE7vKh5UTKMsR6dUOrPx;panoramaId_expiry=1627512585351;HstCnv4361570=4;HstCns4361570=6;PHPSESSID=51c7ec06b1478862269e4bd0e0619a82;_popfired=1;HstCla4361570=1627426254414;HstPn4361570=3;HstPt4361570=18;token_QpUJAAAAAAAAGu98Hdz1l_lcSZ2rY60Ajjk9U1c=BAYAYQCNhAFhAI3PgAGBAsAAIF8MpORLOOboaxfyZS1d-ayHTYUTAxp5Z1f88rkKA3S_wQBIMEYCIQD9wMTyBnqaShYbGJ65kpooXebJPiBznSa_t0I-WdVQ6QIhAMWZdsLNo7HugAYkLjkagwB9_fy311i-jKxvT9G_gbj7";
 //trx
-$trxcookie = "xxx";
-//neo
-$neocookie = "xxx";
-//ppc
-$ppccookie = "xxx";
-//Waves
-$wavescookie = "xxx";
-//lsk
-$lskcookie = "xxx";
-//rdd
-$rddcookie = "xxx";
-//strax
-$straxcookie = "xxx";
-//exs
-$exscookie = "xxx";
-//bch
-$bchcookie = "xxx";
-//ada
-$adacookie = "xxx";
-//etc
-$etccookie = "xxx";
-//exg
-$exgcookie = "xxx";
-//zen
-$zencookie = "xxx";
-//kmd
-$kmdcookie = "xxx";
-//pivx
-$pivxcookie = "xxx";
-//xtz
-$xtzcookie = "xxx";
-//vtc
-$vtccookie = "xxx";
+$trxcookie = "Ref=EC-UserId-471183;TRXToken
+=kBgEQpafNfuKgRboXhfO4I0M7lHTmBFg
+;HstCfa4361570=1627050432384;HstCmu4361570=1627050432384;__dtsu=4C3016270504359883B4613B877183F8;_cc_id=95233da1cc2326d0f272023f1776217e;a=HJClfTFvTHt0CE7vKh5UTKMsR6dUOrPx;panoramaId_expiry=1627512585351;HstCnv4361570=4;HstCns4361570=6;PHPSESSID=51c7ec06b1478862269e4bd0e0619a82;_popfired=1;HstCla4361570=1627426254414;HstPn4361570=3;HstPt4361570=18;token_QpUJAAAAAAAAGu98Hdz1l_lcSZ2rY60Ajjk9U1c=BAYAYQCNhAFhAI3PgAGBAsAAIF8MpORLOOboaxfyZS1d-ayHTYUTAxp5Z1f88rkKA3S_wQBIMEYCIQD9wMTyBnqaShYbGJ65kpooXebJPiBznSa_t0I-WdVQ6QIhAMWZdsLNo7HugAYkLjkagwB9_fy311i-jKxvT9G_gbj7";
